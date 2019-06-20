@@ -1,2 +1,3 @@
 # bot-validation
 test
+n
